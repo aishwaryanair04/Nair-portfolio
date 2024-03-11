@@ -46,7 +46,7 @@ From your command line, first clone Dev Portfolio:
 $ git clone https://github.com/mayankagarwal09/dev-portfolio
 
 # Move into the repository
-$ cd dev-portfolio
+$ cd nair-portfolio
 
 # Remove the current origin repository
 $ git remote remove origin
