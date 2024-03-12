@@ -17,9 +17,9 @@ const styles = {
     fontWeight: 500,
   },
   introImageContainer: {
-    margin: 10,
+    margin: '10px 10px 5px 10px', // Adjust the top margin here
     justifyContent: 'center',
-    alignItems: 'center',
+    alignItems: 'flex-start',
     display: 'flex',
   },
 };

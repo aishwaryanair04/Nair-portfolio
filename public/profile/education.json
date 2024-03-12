@@ -1,19 +1,22 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Aug 2022 - May 2024",
+            "cardTitle": "M.S., Management Information Systems",
+            "cardSubtitle":"Texas A&M University, College Station",
+            "cardDetailedText": "GPA - 3.8",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/tamu.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Aug 2015 - May 2019",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"A.P.J. Abdul Kalam Technological University",
+            "cardDetailedText": "GPA - 3.6",
+            "icon" : {
+                "src": "images/education/ktu.png"
+            }
         }
     ]
 }
