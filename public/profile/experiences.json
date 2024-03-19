@@ -5,11 +5,11 @@
             "subtitle": "Yahoo!",
             "workType": "Internship",
             "workDescription": [
-                "Developed a new feature Pipeline Templates for Yahoo's open-source platform, Screwdriver, a Kubernetes, and Docker-based CI/CD tool.",
-                "Streamlined and simplified CI/CD workflow creation for platform users through implementation of new feature which expedites development processes and ensures consistency across projects. This feature is currently being used in over 70+ distinct projects.",
-                "Utilized ReactJS and JavaScript for back-end and front-end development for template validation, publishing, and tagging, ensuring seamless communication between distributed components.",
-                "Conducted automated testing using Mocha and wrote testing scrips for all functions of the pipeline templates feature, ensuring adequate test coverage and improved feature performance.",
-                "Designed RESTful APIs for module integration and integrated Git for version control, ensuring code integrity and standardization."
+                "Created Pipeline Templates feature for Yahoo's Screwdriver platform, enhancing CI/CD processes.",
+                "Simplified workflow creation, accelerating development across 70+ projects.",
+                "Implemented ReactJS and JavaScript for seamless back-end and front-end communication.",
+                "Automated testing with Mocha for comprehensive coverage and improved performance.",
+                "Developed RESTful APIs for module integration and integrated Git for code integrity."
             ],
             "dateText": "06/2023 – 08/2023"
         },
@@ -18,14 +18,13 @@
             "subtitle": "Infosys",
             "workType": "Full-Time",
             "workDescription": [
-                "Designed, implemented, and deployed a company-wide, end-to-end cloud-based platform (LEAP) for real-time enterprise application management using React and JavaScript, utilized by over 100+ global clients, demonstrating significant industry-wide impact.",
-                "Improved mobile device accessibility of the platform through Android Studio using Kotlin, leading to a 20% boost in user engagement by enabling convenient on-the-go decision-making capabilities.",
-                "Developed a prediction model using Linear Regression (in Python) for a sports company, driving a 20% rise in inventory turnover, a 15% reduction in stock-outs, leading to its adoption as a template for similar dashboards across multiple client accounts.",
-                "Integrated Jenkins with Mocha to generate testing reports to identify issues across multiple testing suits by automating test execution with a cognitive automation bot (ICAP CI/CD), resulting in 30% reduction in manual testing, and 20% increase in test coverage.",
-                "Built a large-scale web application for an online marketplace platform using ReactJS and JavaScript while integrating secure authentication and authorization mechanisms using JWT and OAuth 2.0.",
-                "Implemented Elasticsearch integration to include search functionality and payment gateways using SDKs, decreasing average search query response time by 50% and ~60% surge in online transactions compared to previous manual transaction process.",
-                "Built a recommendation engine using collaborative filtering algorithm (k-NN) in Python, driving personalized product suggestions based on user behavior, leading to 20% increase in conversion rates among users who interacted with recommended products.",
-                "Received a RISE Insta Award for significant contributions to the success of the LEAP platform's development, showcasing substantial dedication and expertise."
+                "Created LEAP, a cloud-based platform using React and JavaScript, adopted by 100+ clients globally.",
+                "Enhanced mobile accessibility with Kotlin in Android Studio, resulting in a 20% increase in user engagement.",
+                "Developed a predictive model in Python (Linear Regression) for a sports company, boosting inventory turnover by 20%.",
+                "Integrated Jenkins with Mocha for automated testing, reducing manual testing by 30% and increasing coverage by 20%.",
+                "Developed a secure web application for an online marketplace with ReactJS, JWT, and OAuth 2.0.",
+                "Integrated Elasticsearch for search functionality and payment gateways, improving response time by 50% and increasing transactions by ~60%.",
+                "Implemented a recommendation engine (k-NN) in Python, leading to a 20% increase in conversion rates."
             ],
             "dateText": "10/2019 – 07/2022"
         }
